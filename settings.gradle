@@ -1,0 +1,1 @@
+include ':app', ':aeasyannotation', ':aeasycompiler', ':routecore', ':baseprovider', ':module1'
